@@ -90,6 +90,33 @@
 					"fontFamily": "Inter",
 					"slug": "inter"
 				}
+			],
+			"fontSizes": [
+				{
+					"name": "Small",
+					"size": "1rem",
+					"slug": "small"
+				},
+				{
+					"name": "Medium",
+					"size": "1.5rem",
+					"slug": "medium"
+				},
+				{
+					"name": "Large",
+					"size": "2.75rem",
+					"slug": "large"
+				},
+				{
+					"name": "Extra Large",
+					"size": "5rem",
+					"slug": "x-large"
+				},
+				{
+					"name": "Extra Extra Large",
+					"size": "7.5rem",
+					"slug": "xx-large"
+				}
 			]
 		}
 	},
@@ -101,7 +128,7 @@
 			"h1": {
 				"typography": {
 					"fontFamily": "Rozha One",
-					"fontSize": "120px",
+					"fontSize": "var(--wp--preset--font-size--xx-large)",
 					"fontStyle": "normal",
 					"fontWeight": "400",
 					"lineHeight": 0.8
@@ -110,17 +137,8 @@
 			"h2": {
 				"typography": {
 					"fontFamily": "Rozha One",
-					"fontSize": "80px",
+					"fontSize": "var(--wp--preset--font-size--x-large)",
 					"lineHeight": "0.8"
-				}
-			},
-			"h5": {
-				"typography": {
-					"fontFamily": "Inter",
-					"fontSize": "24px",
-					"fontStyle": "normal",
-					"fontWeight": "400",
-					"lineHeight": 1.5
 				}
 			},
 			"heading": {

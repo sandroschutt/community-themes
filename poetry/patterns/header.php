@@ -9,16 +9,16 @@
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"32px","bottom":"64px"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:32px;padding-bottom:64px"><!-- wp:group {"style":{"spacing":{"blockGap":"64px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"88px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:site-title {"level":0,"isLink":false,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600"}},"textColor":"custom-text"} /-->
+<div class="wp-block-group"><!-- wp:site-title {"level":0,"isLink":false,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"medium"} /-->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"48px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":1} -->
-<h1>Food <br>for thoughts</h1>
-<!-- /wp:heading -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"0.8"}},"fontSize":"xx-large","fontFamily":"rozha-one"} -->
+<p class="has-rozha-one-font-family has-xx-large-font-size" style="line-height:0.8">Food <br>for thoughts</p>
+<!-- /wp:paragraph -->
 
-<!-- wp:heading {"level":5} -->
-<h5>A collection of valuable thoughts by a very egocentric person.</h5>
-<!-- /wp:heading --></div>
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}},"fontSize":"medium"} -->
+<p class="has-medium-font-size" style="line-height:1.5">A collection of valuable thoughts by a very egocentric person.</p>
+<!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
